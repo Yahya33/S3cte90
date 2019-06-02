@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTg0ODU2Mjk1MDY5NDUwMjgw.XPRETg.JxGVqLjHdZeEWda7VQMYrV7ZqRs
+owner=  517664398010089472
+prefix= Su
+game= Suplay
 stayinchannel=true
 songinstatus=true
